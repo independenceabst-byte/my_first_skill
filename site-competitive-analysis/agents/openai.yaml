@@ -1,0 +1,4 @@
+interface:
+  display_name: "Анализ сайтов"
+  short_description: "Простой аудит сайта и конкурентный обзор"
+  default_prompt: "Use $site-competitive-analysis to analyze this website and save a clear report."
