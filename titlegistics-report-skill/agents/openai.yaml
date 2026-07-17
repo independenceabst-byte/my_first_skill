@@ -1,0 +1,4 @@
+interface:
+  display_name: "TitleGistics Report"
+  short_description: "Create New Jersey title search reports"
+  default_prompt: "Use $titlegistics-report to create a TitleGistics report from this New Jersey title search PDF."
