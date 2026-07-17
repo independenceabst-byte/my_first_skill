@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Performance Monitor"
+  short_description: "Monitor top client job performance weekly"
+  default_prompt: "Use $monitor-client-performance to review weekly top-client job performance and flag declines."
