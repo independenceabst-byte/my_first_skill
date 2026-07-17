@@ -1,0 +1,4 @@
+interface:
+  display_name: "Searcher Production Monitor"
+  short_description: "Monitor weekly Notion production"
+  default_prompt: "Use $monitor-searcher-production to review weekly Office and Subcontractors production."
