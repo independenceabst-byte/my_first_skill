@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconcile Subcontractor Invoices"
+  short_description: "Compare vendor costs with QuickBooks client billing"
+  default_prompt: "Use $reconcile-subcontractor-invoices to match this subcontractor invoice to QuickBooks customer invoices and create an Excel reconciliation."
